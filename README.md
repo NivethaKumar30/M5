@@ -1,5 +1,5 @@
-## NAME : NAVEEN MKUMAR T
-## REG NO : 212223220067
+## NAME : NIVETHA K
+## REG NO : 212222230102
 ## EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
