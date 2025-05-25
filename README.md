@@ -24,16 +24,7 @@ int main() {
 ```
 ## OUTPUT:
  	
-
-
-
-
 ![437756562-f103617b-1914-4c33-a372-f8845f5eb95c](https://github.com/user-attachments/assets/025d89f9-f7a5-4fbe-a2be-70278fa62061)
-
-
-
-
-
 
 
 ## RESULT:
@@ -80,9 +71,7 @@ int main() {
 
 ![437756652-4f806af0-bfd0-45c8-87e9-e8dcfae4ec4d](https://github.com/user-attachments/assets/169bd97c-57b0-44e9-8fce-68f703a8a80c)
 
-
-
-           
+	   
 ## RESULT:
 
 Thus the program has been executed successfully.
